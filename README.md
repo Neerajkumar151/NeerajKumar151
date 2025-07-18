@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 Featured Project
-- 🔐 **Cloud Storage Web App** – A scalable, Dropbox-style app built with **Next.js** and **vercel**.  
+- 🔐 **Cloud Storage Web App** – A scalable, Dropbox-style app built with **Next.js** and **AppWrite**.  
   Features file uploads, real-time sync, and user auth. [View on GitHub](https://cloud-storage-webapp.vercel.app/sign-in) <!-- Replace # with link if public -->
 
 ---
