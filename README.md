@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Neerajkumar151" alt="Neerajkumar151" /></a> </p>
 
-- 🔭 I’m currently working on **NextPrep (Placements preparation website)**
+- 🔭 I’m currently working on **GenieAi (Content creation and Generation Web App)**
 
 - 📫 How to reach me **thakurneerajkumar17@gmail.com**
 
