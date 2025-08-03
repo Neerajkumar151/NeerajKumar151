@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajkumar151&label=Profile%20views&color=0e75b6&style=flat" alt="neerajkumar151" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/Neerajkumar151=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Neerajkumar151&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🔭 I’m currently working on **GenieAi (Content creation and Generation Web App)**
 
