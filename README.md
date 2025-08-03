@@ -25,12 +25,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajkumar151&show_icons=true&locale=en&layout=compact" alt="neerajkumar151" /></p>
 
-[![Neeraj's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neerajkumar151&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neerajkumar151&show_icons=true&locale=en" alt="Neerajkumar151" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajkumar151&" alt="neerajkumar151" /></p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Neerajkumar151)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>	
  <summary><b>GSSoC'24 Badges</b></summary><br>
