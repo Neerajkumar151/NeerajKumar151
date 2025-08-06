@@ -38,5 +38,11 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Neerajkumar1517) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ---
+
+  </div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
