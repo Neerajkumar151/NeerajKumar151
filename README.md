@@ -11,7 +11,7 @@
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Neerajkumar151&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajkumar151" alt="neerajkumar151" /></a> </p>
 
 
 ## 🌐 Socials:
