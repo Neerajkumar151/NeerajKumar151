@@ -33,7 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajkumar151&" alt="neerajkumar151" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajkumar151&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details>	
