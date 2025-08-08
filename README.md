@@ -1,15 +1,25 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-<h1 > 💫 Hi 👋, I'm Neeraj Kumar</h1><h3>B.Tech IT Final Year Student | Developer | GL Bajaj, Greater Noida</h3><br>🔭 I’m currently working on GenieAi (Content creation and Generation Web App)<br> 📬 Reach Me
+<h1 align="center">💫 Hi 👋, I'm Neeraj Kumar</h1>
+<h3 align="center">B.Tech IT Final Year Student | Developer | GL Bajaj, Greater Noida</h3>
+<img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/x2M7czyyeJMsptSeTj-xP2zNpc12XE3ZSZ9v7L1V3Qw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlR1JwT1hkM05t/NWhiSEE0WTJwaVpX/ZGxOalp2WW5nNWNq/VnhhSGh2ZW1wNlpY/RmpPR0Z4WmlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYkdnc2M1bVdv/cnlmZ0tCeDF1L2dp/cGh5LmdpZg.gif">
 
-📧 [thakurneerajkumar17@gmail.com](mailto:thakurneerajkumar17@gmail.com)
+- 🔭 I’m currently working on **GenieAi (Content creation and Generation Web App)**
 
+- 🌱 I’m currently Preparing for **Placements**
+
+- 💬 Ask me about **Frontend**
+
+- 📫 How to reach me: [thakurneerajkumar17@gmail.com](mailto:thakurneerajkumar17@gmail.com)
+
+- ⚡ Fun fact **I am Funny**
 
 
 [![](https://visitcount.itsvg.in/api?id=Neerajkumar151&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajkumar151&label=Profile%20views&color=0e75b6&style=flat" alt="neerajkumar151" /> </p>
 
----
+
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajkumar151" alt="neerajkumar151" /></a> </p>
 
